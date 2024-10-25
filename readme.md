@@ -26,7 +26,7 @@ python3 my-server.py
 On your MacBook (or wherever you’re running the client), go to the folder with my-calls.py and run:
 python3 my-calls.py
 
-### Expected Output
+Expected Output
 - Successful Login and Message:
     Token received: f99aa8b8573062e9802f4fc0807ae1cb
     200
